@@ -1,0 +1,1000 @@
+__label__eng	We agonized over the decision to do that.
+__label__por	Em todo o caso, seria bom consultar um advogado.
+__label__fra	Cette fois est différente.
+__label__hun	Nekem is tetszik a sütemény.
+__label__epo	Tiu cikatro neniam saniĝos.
+__label__eng	Sami should be aware of the situation.
+__label__rus	Я надеюсь встретить этого человека.
+__label__ita	Vuoi continuare a uscire con lei?
+__label__spa	Por favor, déjame tranquilo.
+__label__eng	A dog is sometimes a dangerous animal.
+__label__ita	Perché non siete sconvolti?
+__label__tur	Tom farklı değil.
+__label__eng	My father won't allow that.
+__label__eng	She's on her way home from school.
+__label__tur	Uzun süredir evde pişirilmiş akşam yemeği yemedim.
+__label__spa	Él leyó el libro en ocho días.
+__label__epo	Mi venis hejmen kun malplenaj manoj.
+__label__spa	Danos hoy nuestro pan de cada día.
+__label__eng	You know this isn't where I want to be.
+__label__deu	Ich sorge mich um mein Gewicht.
+__label__epo	Ĉu vi estos libera morgaŭ?
+__label__fra	Ma mère est partie au salon de beauté.
+__label__tur	Tam bir ayak bağıyım.
+__label__ita	Non smettono di stupire!
+__label__eng	I'm talking about it.
+__label__por	Despede-te de teus amigos.
+__label__rus	Том с Мэри поженились без согласия родителей.
+__label__ita	Io penso che staremo bene.
+__label__ita	Pensavo che fosse arrabbiata con lui.
+__label__epo	Mi ne povas kredi miajn okulojn.
+__label__hun	Itt nem erről van szó.
+__label__eng	Tom goes to the gym three times a week.
+__label__ita	Va a insegnare qualcosa in Bangladesh?
+__label__tur	Tom resme bakıyor.
+__label__deu	Die Bildqualität ist wirklich schlecht - die Auflösung ist so niedrig.
+__label__ita	I ciliegi fioriscono.
+__label__ita	Questo televisore è grande e costoso.
+__label__por	Ela o conhece pouco.
+__label__fra	Tom est la star de l'émission.
+__label__tur	Tom konuşsun.
+__label__eng	She poured herself some whiskey.
+__label__rus	Скоро ты будешь говорить по-испански как носитель языка.
+__label__deu	Ich bin keine Berühmtheit.
+__label__spa	No soy ingenuo.
+__label__eng	His speech was an effective apology for the Government's policies.
+__label__hun	Péter egy szavahihető ember.
+__label__rus	Не похоже, чтобы они были удивлены.
+__label__eng	I know Tom is a Red Cross volunteer.
+__label__rus	Да здесь и смотреть не на что.
+__label__rus	Да конечно!
+__label__ita	Tom se n'è andato.
+__label__ita	Non vanno a costruire fattorie negli Stati Uniti.
+__label__tur	"Amcaları nereli?" "İngiliz."
+__label__ita	Noi siamo flessibili.
+__label__eng	Tom was convinced.
+__label__epo	Mi klarigis la regulon al li.
+__label__ita	Parleresti più forte?
+__label__ita	Il comunismo era professato da Marx e Engels.
+__label__rus	Солнце не садится на востоке.
+__label__tur	Benim için iyi bir şey söyle.
+__label__rus	Я занимаюсь этим почти каждый день.
+__label__epo	Mi serĉas sidlokon.
+__label__rus	Я думала, вы ушли с ними.
+__label__ita	Mi viene il dubbio: a chi giova tutto ciò?
+__label__eng	He speaks Russian.
+__label__spa	Encontré un restaurante de deliciosa comida mexicana.
+__label__hun	Melyiket szeretnéd, ezt vagy azt?
+__label__spa	Armstrong fue el primer hombre en llegar a la Luna.
+__label__spa	Parecéis muy cansados.
+__label__deu	Oh Mensch lerne tanzen, sonst wissen die Engel im Himmel mit dir nichts anzufangen.
+__label__rus	Чай слишком крепкий. Подлей немного воды.
+__label__eng	I wanted to be left alone.
+__label__por	Surpreendeu-me.
+__label__ita	Cosa fai quando visiti Boston?
+__label__eng	Tomorrow he'll at least be able to drink something.
+__label__fra	Le locuteur peut nier l'interprétation de l'interlocuteur.
+__label__eng	Tom put a pile of letters on Mary's desk.
+__label__fra	Tom a dit à la police tout ce qu'il savait.
+__label__tur	Hatta ondan hoşlanmıyorum.
+__label__rus	Я бы хотела бегло говорить по-французски.
+__label__tur	Et istiyoruz.
+__label__ita	Non ero impegnato ieri.
+__label__epo	Mi povas vidi, ke vi estas okupita, do mi tuj venas al la decida punkto.
+__label__epo	Tom ne estas multe pli maljuna ol Mary.
+__label__tur	Bunun için Tom'u suçlama yolu bulacağım.
+__label__spa	Ella detesta dormir sola.
+__label__epo	Ŝi ne metas sukeron en sian kafon.
+__label__fra	Vas-y tout seul si tu insistes.
+__label__ita	Quando parli di Russia ovviamente le prime parole che vengono in mente sono libertà e opportunità, ovvio.
+__label__hun	Tisztázta, hogy miért késett.
+__label__rus	На сегодняшний день мы не получили от него ответа.
+__label__deu	Ich habe einen Fehler begangen.
+__label__tur	Bana her şeyi söyleyeceksin.
+__label__deu	Atomkraft geht nicht. Im 21. Jahrhundert kommt der Strom aus Solarzellen.
+__label__ita	Viene a fare un aperitivo.
+__label__epo	Ŝi surhavas tiajn vestaĵojn, kiajn surhavas ŝia fratino.
+__label__eng	Eat your vegetables so that you will grow up to be big and strong.
+__label__eng	Wow! Thousands of fish!
+__label__tur	Tom kızarmış pirinç yemek istemedi.
+__label__por	O sambo é o único esporte russo que ganhou popularidade não só em seu próprio país, mas também em mais de 50 países ao redor do mundo.
+__label__epo	Oni ne povas haltigi progreson.
+__label__rus	Когда ты обычно ложишься спать?
+__label__eng	Weren't you the one who was supposed to tell Tom and Mary they wouldn't be allowed to do that?
+__label__eng	"Why do you rob banks?" "Because that’s where the money is."
+__label__fra	Pourrais-tu me prêter ton vélo pendant deux jours ?
+__label__epo	La vojo, kiu transpasas la monton, estas malvasta kaj krome tre kruta.
+__label__eng	What do you like doing?
+__label__eng	Are these children yours?
+__label__deu	Himbeeren sind sehr teuer.
+__label__deu	Ich will nicht vergessen, was einmal war.
+__label__epo	Vi ridindiĝas.
+__label__rus	Том знает, что ты не будешь этого делать?
+__label__por	Pierre o Cruel é também conhecido como Pierre o Justiceiro.
+__label__fra	Le Carême commence le mercredi des Cendres et s’achève le Samedi saint au soir, veille de Pâques.
+__label__rus	Надеюсь, у вас есть хороший адвокат.
+__label__spa	Tom está cortando leñas.
+__label__tur	Tom'un cenazesinde ağlamadım.
+__label__tur	Temizlenecek çok çöp var.
+__label__hun	A szövegeket én írtam a dalhoz.
+__label__tur	Benim öğretmenim Bayan Li'dir.
+__label__fra	J'ai autre chose en tête.
+__label__tur	Geçen yıl üç arkadaşımı kaybettim.
+__label__ita	State per arrivare qui.
+__label__deu	Ich verdiente genug Geld, um meine Bedürfnisse und meine Wünsche zu erfüllen.
+__label__ita	Sei con il cellulare?
+__label__ita	Non voglio che lasci la squadra.
+__label__epo	La surbendigilo surbendigis ŝian voĉon.
+__label__hun	Egy csapat tizenegy játékosból áll.
+__label__eng	This park isn't open to the public.
+__label__ita	Andate a costruire arene in Somalia?
+__label__deu	Gusseisen ist eine Legierung von Eisen und Karbon.
+__label__deu	Oft waren meine Kameraden so versessen auf Geschichten, dass ich ihnen mitten in einer Geschichte einschlief, mitten im Satz, zwischen den Silben.
+__label__por	Estou pensando em ti.
+__label__hun	Tele kamrában egér is fészkel.
+__label__spa	¿Son todos ellos tus amigos?
+__label__rus	Хочешь попробовать свежайшего малинового варенья?
+__label__hun	A lányok nem féltek, de a fiúk igen.
+__label__rus	Фома показал Маше жестом встать.
+__label__fra	Une sorte de pus sort quand j'urine.
+__label__eng	Mary told me she was rich.
+__label__por	Parece que você odeia as mulheres.
+__label__rus	Тому нравилось в Бостоне.
+__label__ita	Tom non ce la farà.
+__label__ita	Domani non sei a lavorare.
+__label__rus	Мать поставит супницу на стол.
+__label__ita	Il grande fiume era scuro per via del limo.
+__label__rus	Где они купили эти туфли?
+__label__ita	Ho perso la mia scarpa nell'incendio.
+__label__epo	Kio estas tio antaŭ ni?
+__label__rus	Я пригласил соседей на ужин.
+__label__eng	Tom is a very tough teacher.
+__label__tur	Dün gece Çin yemeği yedin mi?
+__label__spa	¿Qué estaba pensando Tom?
+__label__epo	Kiel rapide vi piediras!
+__label__ita	"Di che nazionalità erano i nostri professori?" "Inglese."
+__label__fra	Mon copain aime les pâtes comme moi.
+__label__eng	You don't talk a lot, do you?
+__label__tur	Dili anlayabiliyorum ama onu konuşamıyorum.
+__label__eng	We both know why Tom isn't here.
+__label__eng	The end was only hours away.
+__label__fra	Elle a le plus beau cul que j'aie jamais vu.
+__label__por	Conheço um rapaz que tem dois redemoinhos no cabelo. Dois!
+__label__por	Eu desejo que meu sonho torne-se real.
+__label__fra	Il se dispute tout le temps avec son chef.
+__label__ita	Va a lavorare in Irlanda.
+__label__por	Sabe dançar essa música?
+__label__epo	Ŝi ege enuas en Parizo.
+__label__ita	Tom è deceduto la settimana scorsa.
+__label__rus	Жабры рыб выглядят ярко красными из-за большого скопления капилляров, подобного тому, что есть в лёгких.
+__label__tur	Kolları bağlı duruyordu.
+__label__tur	Beni dışlamadan daha küçük yaştan itibaren öğretseydiniz öğrenemez miydim?
+__label__tur	Burada yaşayan kimse var mı?
+__label__eng	I want to do better.
+__label__rus	Я всё оставил там.
+__label__eng	He came to repent before long.
+__label__fra	Marie a abattu un avion ennemi.
+__label__por	Minha opinião é quase inteiramente igual à tua.
+__label__por	Ele foi despedido por justa causa.
+__label__ita	Non vai a fare nuove conoscenze in Germania.
+__label__tur	Tom çorbanın yeterince sıcak olmadığını şikâyet etti.
+__label__deu	Wir wissen, dass es schwierig ist, aber bitte übersetzt nicht wortwörtlich.
+__label__tur	Polisler caddede devriye geziyorlardı.
+__label__tur	Uzanmanı istiyorum.
+__label__eng	Tom didn't plan on running into anyone he knew.
+__label__hun	Már mindent felforgattunk érte.
+__label__ita	La mia migliore amica è egiziana.
+__label__ita	I vegani sono persone che evitano i prodotti di origine animale o i prodotti testati su animali, nel tentativo di evitare di danneggiare gli animali. I freegani fanno fare un ulteriore passo avanti a ciò riconoscendo che, in una complessa economia industriale basata sulla produzione di massa guidata dal profitto, gli abusi sugli esseri umani, sugli animali e sulla terra abbondano in tutti i livelli di produzione (dall'acquisizione di materie prime alla produzione e ai mezzi di trasporto) e in quasi ogni prodotto che acquistiamo.
+__label__ita	Vado a costruire ponti in Bangladesh.
+__label__fra	J'hésitais sur la route à prendre.
+__label__tur	Yapacak fırsatım olsa bunu tekrar yaparım.
+__label__eng	Sami brought so much negativity to the work environment.
+__label__deu	Ich habe das Geld nie bekommen.
+__label__epo	En tiu momento li elpoŝigis malpuran paperan nazotukon kaj turni sin flanken.
+__label__ita	È la ragazza più bella di tutta la scuola.
+__label__epo	Ni iris ludi en la parko.
+__label__fra	J'aimerais téléphoner à ma famille.
+__label__tur	Savaşta tüm aileni kaybetmenin nasıl olduğunu bilmiyorsun.
+__label__fra	Chaque matin, le coq chante cocorico !
+__label__eng	I work for much time.
+__label__eng	There's no disagreement here.
+__label__por	Nunca mais te falo das minhas tias.
+__label__eng	Lay it down on paper so everyone understands better.
+__label__deu	Das Paradies ward uns versprochen, doch hat es stark nach Blut gerochen.
+__label__deu	Die Übersetzung des Textes ist sorgfältig erarbeitet worden. Es wurde besonderer Wert auf Natürlichkeit und einen feinen Stil gelegt.
+__label__ita	Lei è l'ultima speranza per l'umanità.
+__label__por	Os caramujos se deslocam lentamente.
+__label__deu	Sprechen Sie Holländisch?
+__label__epo	Ili kulpigis lin esti kulpa je la bankroto de la firmao.
+__label__tur	Ben en fazla üç dolar harcadım.
+__label__ita	Ha abbastanza soldi per il viaggio?
+__label__eng	Lo and behold!
+__label__hun	Kedvelem Cathyt.
+__label__eng	I need you to sign these papers.
+__label__eng	Layla did an interview with Euronews.
+__label__por	Eles hão de voltar.
+__label__rus	Я хочу, чтобы ты сделала это сама.
+__label__eng	Tom can still make it on time if he hurries.
+__label__por	Os sonhos contribuem muito para a cultura e educação da humanidade.
+__label__eng	His age, she thought, would be rather over thirty than under it.
+__label__rus	Эту книгу я рекомендую ещё меньше, нежели первую.
+__label__rus	Можете пойти сами убедиться.
+__label__deu	Ich lege Ihnen ein Foto bei.
+__label__epo	Kiu teamo estas nia?
+__label__eng	Tom and Mary are mean, aren't they?
+__label__por	Falar francês é difícil
+__label__tur	Bizi akşam yemeğinde ağırladılar.
+__label__eng	Honestly you can't find it?
+__label__eng	The conclusion is crystal clear.
+__label__eng	Let me show you how to use this washing machine.
+__label__por	Tom te protegerá.
+__label__ita	Chiudete la dannata porta!
+__label__rus	Том даже не посмотрел на него.
+__label__deu	Warum ist mit einem Mal die Geburtenrate zurückgegangen?
+__label__ita	Io parlavo bisbigliando.
+__label__hun	Akkor szoktam gyakorolni a zongorán, amikor a gyerekek iskolában vannak.
+__label__rus	Тому не понравилось это место.
+__label__tur	Ben zekiyim.
+__label__rus	Действуя только наверняка, ничего великого не совершить.
+__label__ita	Occhio a non prendere la sifilide!
+__label__ita	Abbiamo comprato un'automobile nuova.
+__label__rus	Деликатность - это когда вы себя ведете с другими так, как хотите, чтобы вели себя с вами.
+__label__epo	Neniu sanigisto estas perfekta.
+__label__deu	Trink deinen Kaffee, sonst wird er kalt!
+__label__hun	Miért érdekeljen engem, hogy éppen mit csinálsz?
+__label__eng	Tom took the scissors away from Mary.
+__label__deu	Maria fragte Elke, ob sie sich für den Tanz ein Kleid ausleihen dürfe.
+__label__eng	Sami didn't have evidence.
+__label__hun	Összegyűjtötte a széttört tányér cserepeit.
+__label__deu	Zeigen Sie uns, wo es langgeht!
+__label__eng	Layla regained her ability to speak.
+__label__rus	Если ты хочешь похудеть, не стоит добавлять в сельдерей майонез.
+__label__rus	Тебе не придется беспокоиться о Томе.
+__label__epo	Ĉu vi povas rekomendi al mi bonan restoracion?
+__label__por	Não é importante.
+__label__eng	Tom wants to help out.
+__label__tur	Tom, Fransızca okuduğunu söylüyor.
+__label__por	Fui com passos lentos para o lugar do nosso encontro. Ela já estava esperando por mim.
+__label__tur	Yakında iyileşirsin.
+__label__ita	Quella diagnosi è sacrosanta!
+__label__hun	A saját szememmel akarom látni.
+__label__eng	Please get in touch with me when you come to Australia.
+__label__tur	Bence Tom hâlâ uyanık.
+__label__rus	Из кухни доносится запах гари.
+__label__por	Dois meninos saíram correndo da sala.
+__label__ita	Eravamo molto impegnati.
+__label__tur	Ben mutlu bir kampçı değilim.
+__label__epo	Bonvolu sekvi min.
+__label__tur	Hastalanırsan doktora git.
+__label__eng	You mean the world to me, you really do.
+__label__ita	Noi possiamo risolvere questo.
+__label__ita	Tom non ti chiederà di danzare.
+__label__tur	O beni asla yalnız bırakmazdı.
+__label__hun	Mikor élezted meg utoljára ezt a kést?
+__label__epo	Iun aferon mi devas diri al vi.
+__label__por	Não é meu primo.
+__label__deu	Ich studiere nicht.
+__label__epo	Mi petas vin, iru!
+__label__tur	Ben onun imzasını almadım.
+__label__rus	Реактивные самолёты взлетели один за другим.
+__label__tur	"Sometimes" ile ne demek istiyorsun?
+__label__eng	Everyone in the family has stopped eating gluten, wheat, and grains. Now all our chronic maladies have disappeared.
+__label__hun	Kérem, akár rögtön neki is foghatunk.
+__label__eng	Tom is the one that's been stealing our sheep.
+__label__epo	Ni faros ĉion por ebligi al nia infano viziti bonan universitaton.
+__label__eng	I have to talk to somebody.
+__label__hun	Tomi nem tud buszt vezetni.
+__label__epo	Atendu momenton ĝis mi estos preta.
+__label__fra	Je n'avais pas le temps de lire.
+__label__rus	Они дураки.
+__label__tur	İşte olman gerekmiyor mu?
+__label__spa	Avíseme si necesito hacer algún cambio.
+__label__ita	Cosa ne pensate veramente di lui?
+__label__epo	Mi povas iri ien ajn, kien vi volas.
+__label__eng	I'm the only one here who doesn't speak French.
+__label__rus	У меня много кошек.
+__label__ita	Non ricordo di averla vista.
+__label__eng	I doubt that Tom will be able to deal with that.
+__label__hun	Hol van Mária ezen az estén?
+__label__tur	Tom deneseydi bunu yapabilirdi.
+__label__ita	Io sto facendo peggio.
+__label__eng	She does nothing but annoy me all day long.
+__label__eng	I love writing on yellow or other colored paper.
+__label__rus	Я знаю, что это была не она.
+__label__tur	Birleşmiş Milletler Bildirgesi 1945'de imzalandı.
+__label__tur	Oraya gidip gidemeyeceğimi bilmiyorum.
+__label__tur	Benim yüzüğüm nerede?
+__label__spa	Tom no se merece otra oportunidad.
+__label__fra	Je me rends chaque jour au travail en voiture.
+__label__epo	Mario aĉetis sonprenilon ĉe la aŭkcio.
+__label__tur	Çok güzel zaman geçirdim, teşekkürler.
+__label__epo	Mi studas Han-literojn.
+__label__fra	Chaque tête a sa propre manière de penser.
+__label__tur	Birkaç pul almak için postanedeydim.
+__label__hun	Nos, Ön mit gondol?
+__label__deu	Im Gegensatz zu vielen Gerüchten weiß ich nicht alles.
+__label__ita	La situazione andò di male in peggio.
+__label__epo	Bedaŭrinde la mondo ne scias multon pri la hungara literaturo.
+__label__ita	Siamo così occupati.
+__label__rus	Что изменится, если мы сделаем это завтра?
+__label__epo	Viroj fojfoje supertaksas siajn seksajn kapablojn.
+__label__rus	Я знал, что вы бы вернулись домой.
+__label__fra	L'orage nous a retardés.
+__label__ita	Abbiamo visitato l'Australia.
+__label__tur	Yarın nerede buluşalım?
+__label__fra	Nous allons à Nîmes demain.
+__label__deu	Und überhaupt: Du solltest pünktlich sein.
+__label__por	Eutrópio dissertou sobre a história romana.
+__label__por	Não foram vocês que escreveram isso?
+__label__por	Nós nos apressamos para a estação só para perder o trem.
+__label__por	Eu estive em coma por três anos.
+__label__spa	¿Lo conseguiremos?
+__label__deu	Das Thema des Vortrags war keine zufällige Wahl.
+__label__rus	Медсестра смеряла ему температуру градусником.
+__label__epo	La usona ambasadoro en Sirio forlasis la landon pro sekurecaj konsideroj.
+__label__ita	Dobbiamo parlare di quello che è successo.
+__label__deu	Ich lebe auch in Boston.
+__label__deu	Das geht mal gar nicht!
+__label__eng	Tom and Mary said that they wanted to meet John.
+__label__ita	Come sei bravo dietro una tastiera.
+__label__epo	Vi parolas kiel blankula ŝovinisto.
+__label__ita	Non ho spento la luce.
+__label__eng	Don't you want me to go with Tom?
+__label__tur	Tom kuşları beslerken bir park bankında oturdu.
+__label__eng	Some people call Israel an apartheid state.
+__label__por	É um pouco estranho para mim.
+__label__deu	Warum hast du dich abgewendet, als du ihm begegnet bist?
+__label__ita	Hanno pure chiamato il loro ragazzo come te.
+__label__eng	I'm sure Tom is suffering.
+__label__spa	Si miras alrededor, verás a muchas personas haciendo lo mismo.
+__label__tur	Hiç kimsenin buna dokunmasını istemiyorum.
+__label__rus	Она в критическом состоянии.
+__label__spa	Tiró la toalla.
+__label__fra	Tom m'a demandé d'être patient.
+__label__tur	Tom'un babası biraz ayyaştır.
+__label__por	Talvez chova no centro.
+__label__deu	Meine Mutter sagte mir immer, dass ich jeden Monat Geld in die Bank einzahlen solle, damit ich im Falle eines Notfalls genügend habe.
+__label__tur	Sami orada Leyla'nın elbiselerini gördü.
+__label__hun	Úgy vélem, Tom a segítségedet igényli.
+__label__tur	Sami yeni oyuncular kiraladı.
+__label__hun	Amikor apám és anyám veszekednek, én befogom a füleimet.
+__label__eng	Why do you always butt in?
+__label__rus	С нетерпением жду вечеринку.
+__label__deu	Es gibt zwei mögliche Erklärungen.
+__label__ita	L'hai dato a lui?
+__label__rus	Как твой проект?
+__label__tur	Git bulaşıkları yıka.
+__label__eng	She's busy with her research.
+__label__epo	Dania ŝategis esti patrino.
+__label__deu	Ich glaube, der Regen wird stärker.
+__label__fra	Aimez-vous la neige ?
+__label__fra	Tu exigeras de rire.
+__label__eng	Tom usually leaves work at about 2:30.
+__label__rus	Я совсем одна.
+__label__spa	Cuando el músico dejó la gaita, el público se levantó y le dedicó un aplaudo ensordecedor.
+__label__epo	Tomo vivas nun kun sia onklo.
+__label__eng	No one has the right to tell me what I can and can't do with my body.
+__label__eng	There's a lot left to be done.
+__label__deu	Ich mag keinen grätigen Fisch.
+__label__eng	I had the confirmation.
+__label__tur	Tom açıkça bu işi istemiyor.
+__label__por	Vem adormecer nos meus braços.
+__label__rus	Я как-то знавал парня, который утверждал, что имеет духовную связь с горностаями. Чудила.
+__label__deu	Ich habe diesen Befehl vor sechs Stunden gegeben.
+__label__deu	Es gibt Zeiten, da muss ein Mann kämpfen, und gibt er sein Leben hin.
+__label__epo	Ho, hodiaŭ vi estas tre atakema. Do ek al la batalo!
+__label__deu	Man sagt, dass er ohne Notizen reden kann.
+__label__ita	Le mie sorelle sono in forma, io invece sono un poco sovrappeso.
+__label__tur	Onun not kullanmadan konuşabildiği söyleniyor.
+__label__hun	Tom 2013-ban vette meg ezt.
+__label__eng	The girl who works at the bakery is cute.
+__label__eng	Why is Mary going with him to the picnic?
+__label__ita	Quanto costerà la tua operazione?
+__label__eng	He remained thoughtful for a long time, trying to find a solution to the problem.
+__label__epo	Mi lernas la antikvan grekan.
+__label__rus	Летние каникулы начинаются в следующий понедельник.
+__label__deu	Ich muss den ganzen Tag im Bett bleiben.
+__label__eng	Tom comes over to our place a lot.
+__label__deu	Er stieg aus dem Bus aus.
+__label__rus	Не понимаю, чем вам нравится Том.
+__label__tur	Tom bu konuda bir uzman.
+__label__deu	Das kann warten.
+__label__fra	J'ai exactement le même dictionnaire.
+__label__eng	Please reply by return.
+__label__ita	Joe impazzisce per la ragazza.
+__label__rus	Опаздывать не в его правилах.
+__label__hun	Tom egy kicsit becsiccsentett.
+__label__spa	A todos mis amigos les gustan los videojuegos.
+__label__ita	È impegnata. Aspetta un minuto.
+__label__rus	Фома включил настольную лампу.
+__label__por	O dano de um tal tratamento é superior aos seus benefícios.
+__label__eng	The barns are full of grain.
+__label__por	Natasha é um nome russo.
+__label__epo	Damne, mi denove maltrafis la trajnon!
+__label__deu	Du hast da zu viel Pfeffer hineingetan.
+__label__eng	I wanna come back to Lucca.
+__label__eng	I am teaching Berber.
+__label__fra	S'intéresse-t-il à moi ?
+__label__tur	Tom havaalanından uzakta yaşıyor.
+__label__deu	Ich finde, ohne Bart siehst du viel besser aus, Tom.
+__label__deu	Tom versprach, dass er uns helfen würde.
+__label__tur	Parkın bir yerinde şemsiyemi kaybettiğimden yeni bir tane almaya ihtiyacım var.
+__label__eng	Aren't you glad that you didn't go to Australia?
+__label__spa	Nunca me voy de vacaciones sin limpiar primero mi apartamento.
+__label__epo	Tio disvolviĝis senprobleme.
+__label__ita	Questo libro è il mio.
+__label__epo	Ĉirkaŭ mil tunoj da faruno estas eksportataj ĉiujare.
+__label__eng	Why didn't you ask Tom to do that for you?
+__label__por	Vista de longe, esta montanha parece com o Monte Fuji.
+__label__eng	Tom said that he figured that Mary could win.
+__label__eng	Mireille Mathieu is one of France's best singers.
+__label__fra	Comme je suis avec mon banquier pour parler de mon prêt, j'en profite pour parler de celui de ma femme.
+__label__deu	Ihr habt Geschenke aus eurem Land geschickt.
+__label__ita	Non dirò a nessuno di te.
+__label__eng	Sami rides the bus all the time.
+__label__spa	Él está tratando de usarte. ¡No te cases con él!
+__label__rus	Вы сами ей скажете?
+__label__spa	Yo quería volver a San Pablo lo más rápido posible.
+__label__eng	What did Tom give Tom on his birthday?
+__label__epo	Ŝi demandis min, ĉu mi scipovas kudri.
+__label__ita	Per ora non ho bisogno di niente.
+__label__tur	Çalışma önyargılı.
+__label__rus	У неё примерно столько же марок, сколько и у меня.
+__label__eng	We're happy to have you join our team.
+__label__tur	Onun onu bilmesini istiyorum.
+__label__epo	Tio estas nura fantaziaĵo.
+__label__deu	Was ist denn das eigentlich für ein süßes Plüschentchen auf deinem Profilbild?
+__label__deu	Ich mag es, wie du gehst.
+__label__spa	Pero, en general, las cosas han ido bien.
+__label__tur	Neden buraya gelemiyorsun?
+__label__epo	Tom aŭdis, ke lia nomo estis vokita.
+__label__deu	Vielleicht sage ich nicht immer die Wahrheit, doch selbst dann, wenn ich lüge, sind meine Lügen ehrlich gemeint.
+__label__eng	I'm committed to this.
+__label__ita	Le sue parole la rassicurarono.
+__label__deu	Du wirst immer Freunde haben, wenn du ihnen zu essen gibst.
+__label__rus	Выигрываешь?
+__label__rus	Мы ничего не можем обещать.
+__label__fra	Ce pays est fort pauvre.
+__label__eng	The success of newly-developed applications and government-forced deregulation may hold the key to achieving this economic implementation.
+__label__por	Eu prefiro morar no campo do que morar numa cidade.
+__label__por	Ele é quem corre mais rápido.
+__label__ita	Avete nascosto le birre?
+__label__eng	Someday I'll beat you.
+__label__deu	Zu viel Schlaf macht müde.
+__label__hun	Minek foglalkozik olyasmivel, ami nem az ön szakterülete?
+__label__eng	How many men do you have?
+__label__epo	Mi neniam veturas per la lifto. Mi ĉiam iras piede. Tio estas pli favora por la sano.
+__label__fra	Elle a décidé de ne pas payer l'amende.
+__label__eng	It isn't like we have anything else to do.
+__label__fra	Je n'ai aucun problème avec ça.
+__label__tur	Senin hakkında sık sık duydum.
+__label__ita	È stanca di farlo?
+__label__eng	Sami needs to put a face to this name.
+__label__spa	La decisión será incluso más difícil cuanto más la demores.
+__label__rus	Всё, что мне нужно - это ты.
+__label__rus	А ты бы лучше помолчал.
+__label__eng	What shall we have for lunch?
+__label__eng	I'll tell Tom and Mary we're going with them.
+__label__por	Eu tenho os cabelos compridos.
+__label__rus	Как эта улица раньше называлась?
+__label__deu	Mein Gewicht bleibt gleich, egal, wie viel ich esse.
+__label__epo	Mi kelkfoje vizitas la domojn de miaj amikoj.
+__label__eng	The marriage betwixt Janet Dalrymple and David Dunbar of Baldoon now went forward, the bride showing no repugnance, but being absolutely passive in everything her mother commanded or advised.
+__label__epo	Pli bonas silenti kaj esti konsiderata kiel stultulo, ol malfermi la buŝon kaj forpreni ĉiun dubon pri tio.
+__label__deu	Tom hatte diesbezüglich unrecht.
+__label__ita	Sembra diventata quasi una colpa.
+__label__eng	Tom can't take it any longer.
+__label__eng	Sami was sent to death row.
+__label__epo	Ŝi estas absorbita de sia studlaboro.
+__label__eng	I have three nieces.
+__label__eng	Not only has Roger Federer only been bagelled once since turning 18, but he has never been tiebreak-bagelled, either. For someone with over a thousand tour matches, that's certainly a record.
+__label__rus	Это я и хочу услышать.
+__label__epo	Ekestas silento. Ĉiuj rigardas min.
+__label__eng	He knows how to switch off this machine.
+__label__epo	Morgaŭ ŝi iĝos sesdekkvinjara.
+__label__fra	Je devrais apprendre l'espéranto.
+__label__epo	Tio ne taŭgas por io ajn.
+__label__hun	Tamás eladja a házát.
+__label__ita	Non vanno a costruire case in Arabia Saudita?
+__label__deu	Er redet nie von seiner eigenen Arbeit.
+__label__epo	Esploristoj konkludis, ke la ĉiutaga alpreno de 30 gramoj da riz-brano aŭ 35 gramoj da fazeol-faruno rimarkinde modifas la bakterian enhavon ene de la kojlo.
+__label__deu	Du pflücktest Blumen.
+__label__hun	Ebben a szobában forróság van.
+__label__tur	Tom en az haftada bir kez alışverişe gider.
+__label__eng	How much do you pay each year for your children's education?
+__label__por	Você tem onde morar?
+__label__eng	You haven't been yourself lately.
+__label__eng	Tom didn't seem impatient.
+__label__eng	Sami got annoyed.
+__label__eng	Layla was ready for the trip.
+__label__tur	Tom'un onu yapamadığından oldukça eminim.
+__label__spa	Murió de cáncer.
+__label__deu	Wir bereisten fast ganz Thailand mit einem Luxuszug im Kolonialstil.
+__label__tur	Orada suda bir kuğu var.
+__label__epo	Mi bone memoras tion.
+__label__epo	Mi kredis, ke vi estas pli grandaj.
+__label__eng	You must escape.
+__label__rus	У птиц две лапы и два крыла.
+__label__tur	Yeterince suyumuz var mı?
+__label__rus	Судите сами и несудимы будете.
+__label__eng	Mary is only doing what she was told to do.
+__label__epo	Ili ne komprenas tiun frazon, ĉu aŭ?
+__label__rus	Мы специально пропустили его.
+__label__spa	Papá, aquí está el café.
+__label__tur	Buradan sadece iki adım uzakta yaşıyorum.
+__label__deu	Muhammad Ali lief jeden Tag 6 bis 13 km rückwärts.
+__label__eng	How is it going between you and Tom?
+__label__eng	Mary said that wasn't the real reason she did that.
+__label__rus	Том с Мэри теперь одни.
+__label__spa	Ella es la campeona local.
+__label__ita	Forse potete aiutarmi a catturarlo.
+__label__tur	Sizi taşıyacağız.
+__label__fra	Non, ce n'est pas bien.
+__label__fra	Tu as sauté par une fenêtre dans la rivière.
+__label__eng	Tom will stay for three days.
+__label__deu	Tom konnte sich nicht vorstellen, jemanden zu erschießen.
+__label__ita	Abbiate cura!
+__label__ita	Questa è la prima volta che l'ho visto sorridere.
+__label__por	Depois das aulas, eu e meus colegas de turma jogamos beisebol.
+__label__eng	The mechanic said the repair would not take long.
+__label__eng	I thought that we wouldn't need to do that.
+__label__tur	Gemideki adamlar adada beş adam görmekten şaşkına döndüler.
+__label__eng	Contact Tom.
+__label__deu	Er verträgt keinen Spaß.
+__label__epo	En 1683 la turkoj sieĝis Vienon duafoje.
+__label__por	Tentaremos.
+__label__eng	They pulled their glove off.
+__label__hun	Van elég pénzük.
+__label__deu	Wir können das nicht mehr tun.
+__label__tur	Bunu sana açıklayamam.
+__label__ita	Penso che non andremo per salute in Svezia.
+__label__fra	Rentrez chez vous !
+__label__epo	Mi ne povas rigardi la pentraĵon sen pensi pri mia patrino.
+__label__eng	Tom won't let you continue doing that.
+__label__rus	У Тома нет кабельного телевидения.
+__label__ita	Siamo affamate.
+__label__ita	Allora rimani in giardino!
+__label__deu	Tom fragte Mary, ob sie ihm ein Sandwich machen könne.
+__label__rus	Тебе надо отвести детей в школу.
+__label__deu	Sie wollte ihre Mutter nicht enttäuschen.
+__label__eng	I've already decided not to leave early.
+__label__epo	Tomo estas trudiĝema.
+__label__fra	Elle étala la fine fleur de ses tromperies : elle ne pouvait pas vivre sans moi, j’étais le seul homme qu’il y eût pour elle au monde, elle avait peur de m’ennuyer parce que ma présence lui ôtait tout son esprit ; près de moi, ses facultés devenaient tout amour ; elle était d’ailleurs trop tendre pour ne pas avoir des craintes ; elle cherchait depuis six mois le moyen de m’attacher éternellement, et il n’y avait que Dieu qui connaissait ce secret-là ; enfin elle faisait de moi son dieu !…
+__label__por	Eu lavo minhas mãos antes das refeições.
+__label__fra	Enlève tes chaussettes.
+__label__rus	У Тома проблемы в общении со сверстниками.
+__label__fra	Voulez-vous me montrer votre logement ?
+__label__eng	Tom asked me where I was going.
+__label__epo	La ministro pri eksteraj aferoj estis marioneto.
+__label__eng	She got tired with running.
+__label__deu	Er kam mit einem großen Traum nach Tokio.
+__label__por	Há muitos dias tem feito sol.
+__label__ita	Non andate a costruire sinagoghe in Grecia.
+__label__epo	Mi deziras diskuti pri via situacio.
+__label__spa	Ésos son mis pantalones.
+__label__por	Vocês vêm para o jantar?
+__label__eng	He came from far away.
+__label__rus	Меня зовут Мэри, а вас как зовут?
+__label__tur	O bana yalan söyledi. Artık ona güvenemem.
+__label__eng	My old dress is blue.
+__label__deu	Maria und Julia können nicht sehen.
+__label__tur	Tom da ben de Kore yemeklerini severiz.
+__label__eng	Tom and Mary told me they couldn't do that.
+__label__spa	Quiero que la gente sepa la verdad.
+__label__ita	Alle 12,00 precise tutti a tavola a mangiare.
+__label__ita	Vorremmo assaggiare un piatto tradizionale della vostra cucina, cosa ci consiglia?
+__label__rus	Я никогда не забуду нашу встречу.
+__label__rus	Я попрошу её тебе помочь.
+__label__tur	O, arkadaşlarına ihanet edecek son kişidir.
+__label__tur	Ben Çince adımı yazabilirim.
+__label__rus	Тема моего доклада — литература.
+__label__eng	He went to the University of Kansas.
+__label__rus	Мальчик обтёр руки о штаны.
+__label__spa	¿Adónde fuiste el domingo pasado?
+__label__tur	Buradan Boston'a direkt uçuşlar yok.
+__label__tur	Allah keyfimizi bozmasın.
+__label__tur	Onu senin için yapmama ihtiyacın olduğunu söylemiştin.
+__label__deu	Es gibt einen grundsätzlichen Unterschied zwischen deiner Meinung und meiner.
+__label__por	A prova estava tão fácil que não precisei chutar nenhuma resposta.
+__label__epo	Haltigu lin.
+__label__ita	Loro ci provano?
+__label__ita	Affronta un argomento spinoso?
+__label__ita	Ha visitato la sua città natale per la prima volta dopo dieci anni.
+__label__ita	Sono più giovane di quel che sembro.
+__label__eng	Bedrooms were made to sleep in.
+__label__deu	Sie ist schon seit einiger Zeit alleinstehend.
+__label__eng	I can't do this now.
+__label__eng	Tom collected Pokemon cards when he was a kid.
+__label__deu	Was benutzt du öfter? Französisch oder Englisch?
+__label__tur	Benim için hiçbir af yok!
+__label__tur	Şehir meydanında çok sayıda güvercin vardır.
+__label__rus	Почему все на нас смотрят?
+__label__por	Uma amiga minha divorciou-se recentemente do seu marido.
+__label__deu	Wahrscheinlich tut er es schon.
+__label__rus	Ты принёс чего-нибудь поесть?
+__label__hun	Tomnak iskolába kell mennie.
+__label__eng	He can't tell a cherry tree from a plum tree, but he can name them in twelve languages.
+__label__eng	I did that as soon as school was over.
+__label__epo	En mia profesio mi devas akordiĝi kun ĉiaj ajn homoj.
+__label__epo	Tomo diras, ke li ne volas paroli pri la lernejo.
+__label__hun	Hazafutottam.
+__label__tur	Ali elli kez milli oldu.
+__label__tur	Korkarım ki Tom herkese bütün sırlarımızı söyleyecek.
+__label__rus	Я проглотил свою гордость.
+__label__epo	Pluvas en Nederlando.
+__label__epo	Ŝi tre lertas en skiado.
+__label__ita	Il cibo in questo accampamento è terribile.
+__label__epo	Mi ferias dum kvar semajnoj.
+__label__deu	Wir hören Radio.
+__label__tur	Ben sadece geçen gün benim için yaptığın çöreklerin çok, çok iyi olduğunu sana söylemek istedim.
+__label__ita	Quanto siete scontati!
+__label__eng	You couldn't solve the problem, could you?
+__label__tur	Havva da kim? Bence Tom, Adem'dır.
+__label__hun	Karácsonyra vásároltam magamnak egy szupergyors kukoricapattogtatót.
+__label__spa	Tú estás al mando.
+__label__eng	She never talks about her kids.
+__label__ita	Qualcuno ha rubato l'auto di Tom.
+__label__ita	Hanno studiato storia all'università.
+__label__deu	Tom hat Maria nicht vergiftet.
+__label__eng	Mathematics is the language of the universe.
+__label__spa	¡Ese gato va a venir aquí!
+__label__fra	Tom a grimpé précipitamment l'escalier.
+__label__eng	I like swimming and playing basketball.
+__label__eng	I share everything with her.
+__label__rus	Это как раз то, что я хочу от вас получить.
+__label__tur	Geç de olsa sizin de tezgâhı görmüş olmanız ne güzel!
+__label__eng	Tom knew that Mary wanted him to ask her to go to the dance with him.
+__label__rus	Я рад, что я вас наконец поймал.
+__label__tur	O, hazır olmayacak.
+__label__fra	Il a fait très chaud cet après-midi.
+__label__rus	Мэри всё мне про тебя рассказала.
+__label__tur	Geçen yüzyılın ortasına kadar Japonya'nın feodal bir devlet olduğu iyi bilinmektedir.
+__label__rus	Я сыта этим по горло.
+__label__deu	Du bist gewarnt worden.
+__label__tur	Tom satrançta oldukça iyi.
+__label__epo	Kiom da tempo oni bezonas por la vojo de mia domo al via hejmo?
+__label__eng	If you go to a baseball game today, sellers are walking around with hot-water tanks.
+__label__tur	Sonra bebeğin gözleri iki yıldız gibi parlamaya başladı ve canlandı.
+__label__deu	„Du, Tom? Woran denkst du gerade?“ – „An das Wertvollste, was ich auf dieser Erde habe.“ – „Und was ist das?“ – „Mein Mercedes natürlich. Was denn sonst?“
+__label__rus	Том выглядел обиженным.
+__label__eng	Tom has been living in Boston with his father.
+__label__epo	Plenigu ŝian identeckarton.
+__label__fra	Si un incendie se déclarait, je m'échapperais avec ma flûte.
+__label__epo	Bonvolu atenti.
+__label__eng	He touched her shoulder.
+__label__tur	Tom ormanda yürüyüş yapmayı sever.
+__label__tur	Tom materyalisttir.
+__label__hun	Ez egy összetett kérdés.
+__label__deu	Die beiden Nachbarländer unterscheiden sich voneinander in jeder Hinsicht.
+__label__tur	Sadece kapıyı aç.
+__label__deu	Dies ist eine Möglichkeit, es gibt jedoch noch eine andere.
+__label__deu	Jetzt ist guter Rat teuer!
+__label__epo	Ŝi provas sin mem mortigi.
+__label__eng	He married a Canadian girl.
+__label__rus	Хочешь не хочешь, а тебе придётся это сделать.
+__label__epo	Kiom tage kostas la ĉambro?
+__label__tur	Bana yiyecek bir şey al.
+__label__por	Estou com vontade de assistir um filme.
+__label__eng	Just sit and relax.
+__label__epo	Li kuŝis en agonio, ĝis la kuracisto alvenis.
+__label__deu	Die einen sagen, dass dies ohne Weiteres möglich sei, die anderen schwören, es sei gänzlich unmöglich.
+__label__ita	In altre parole: è necessario comunicare il metodo di misurazione.
+__label__epo	Bedaŭrinde ĝustas.
+__label__eng	Why would I be upset?
+__label__eng	I'd like to explain some things for you.
+__label__por	Os soldados estão pulando do navio.
+__label__eng	Tom hoped that Mary would smile.
+__label__eng	It's probably going to be fun to do that.
+__label__por	Eu estava cansado demais para comer qualquer coisa.
+__label__ita	Sì, ma siamo rimasti in pochi.
+__label__epo	Morgaŭ estos lundo.
+__label__fra	La Sicile est une île.
+__label__epo	Tiu eldonejo fakas pri infana literaturo.
+__label__eng	You've got a good head on your shoulders.
+__label__eng	I will tell you more about Japan.
+__label__epo	Ni estas faritaj unu por la alia.
+__label__tur	Bana tuhaf tuhaf bakıyorsun.
+__label__tur	Onun hakkında düşünüyorum.
+__label__tur	Sami bu maçı kazanmayacak.
+__label__tur	Nasıl eğlenirsin?
+__label__epo	Mi senutilas.
+__label__ita	Fammela vedere.
+__label__fra	A part les vêtements qu'il porte, il ne possède rien.
+__label__por	Ele tentou, mas não pôde conter a briga.
+__label__ita	È interessata alla politica.
+__label__fra	Il a un gros camion.
+__label__hun	Apám azt mondta, hogy keményen kell dolgoznom.
+__label__rus	Я тут всё утро тебя жду.
+__label__rus	Всё, что было, я уже съел.
+__label__eng	Don't let this man out. He's going to kill again.
+__label__fra	Cela fait déjà deux ans qu'elle est sans travail.
+__label__spa	Ahora esta en el hospital y se encuentra fuera de peligro.
+__label__spa	El hábito de Tom de retrasar las cosas es conocido.
+__label__eng	Did you give Tom something to eat?
+__label__eng	Tom said he was heartbroken.
+__label__deu	Ich wusste nicht, was ich ihm sagen sollte.
+__label__deu	Ich erzähle dir morgen den Rest.
+__label__ita	Potete prendere questa medicina senza ricetta.
+__label__rus	Все любят Мака.
+__label__spa	No hay prisa.
+__label__hun	Ez igazán szép.
+__label__fra	Je me suis concentré sur ce qu'il disait.
+__label__tur	Tom bunu yapmaktan muaf olabilirdi.
+__label__eng	Tom and Mary have lost control of the situation.
+__label__epo	Tomo estas sen pluaj energioj.
+__label__eng	I'm sure Tom won't be reluctant to do that.
+__label__eng	I want to be the best player I can be.
+__label__deu	Tom half seiner Mutter beim Decken des Tisches.
+__label__spa	El cielo está cubierto de nubes.
+__label__rus	Обычно Том сидит в классе на задней парте.
+__label__eng	I have completed the moving.
+__label__ita	Sami sapeva come fare a botte.
+__label__ita	Noi stiamo cardando la lana.
+__label__rus	Тебе надо быть сильной.
+__label__epo	Li estas kuracisto, sed krom tio verkisto.
+__label__por	Os esperantistas compreenderam também que, por meio da tradução, poderiam melhor explorar e enriquecer os recursos de expressão de sua língua.
+__label__ita	Riuscite a dirmi di più su di lei?
+__label__epo	Ĉiu saĝa homo estas bona, sed ne ĉiu bona homo estas saĝa.
+__label__rus	Львы обитают в Африке.
+__label__eng	I sure hope Tom can wait.
+__label__rus	Как написано, птицы готовятся начать на нас атаку, пока мы тут разговариваем!
+__label__eng	I like the way she smiles.
+__label__rus	Из космоса Земля выглядит совсем маленькой.
+__label__tur	Ondan mümkün olduğu kadar uzak durmaya çalışıyorum.
+__label__ita	Sospetto che Tom sappia già questo.
+__label__deu	Tom ist ein Mann voller Geheimnisse. Er spricht nie über sich, und wenn man ihn fragt, wer er sei, woher er komme oder was er tue, versteht er es mit Geschick, der Frage auszuweichen.
+__label__spa	Ella quiere ser diseñadora.
+__label__tur	Keşke Facebook hesabımı nasıl iptal edeceğimi çözebilsem.
+__label__deu	Ich würde sagen, wir haben ein Problem.
+__label__rus	Боб нечасто пишет своим родителям.
+__label__fra	Nous l'élûmes à la présidence.
+__label__tur	Sana bir liste yapacağım.
+__label__tur	Tom peynir yemeyi sever.
+__label__eng	Tom asked me if he could use my computer.
+__label__rus	Вам действительно нужно постричься.
+__label__eng	Can we talk alone?
+__label__tur	Tom'un onu yapmayı nasıl öğrendiğini merak ediyorum.
+__label__epo	Kie estas via edzino?
+__label__rus	У японцев есть много общего с китайцами.
+__label__ita	Lei è arrivata in Giappone per studiare la lingua giapponese.
+__label__epo	Ili ĉifis foliojn.
+__label__spa	No te acerques a mí.
+__label__tur	Plana karşı olduğunu açıkladı.
+__label__deu	"Ich schwärme für doppelte Verneinungen, Tom!" — "Das ist ja auch durchaus nichts Unerfreuliches, Maria!"
+__label__eng	I don't think I can move.
+__label__rus	У Тома есть трёхмерный телевизор.
+__label__eng	Tom paid little attention to that detail.
+__label__eng	They said that they'd help us do that.
+__label__ita	Hai scritto esattamente quello che penso.
+__label__fra	Tom a arrêté de fumer il y a deux ans.
+__label__rus	Сколько стоит этот банан?
+__label__epo	Ŝi almozpetis.
+__label__deu	Es ist gut, dich hier zu haben.
+__label__epo	Ŝi petis helpon, sed neniu venis.
+__label__eng	I'm just a hindrance.
+__label__epo	En germaniaj aŭtovojaj manĝejoj multaj homoj manĝas kareitan kolbason kun terpomfingroj.
+__label__eng	Layla ran off with Sami.
+__label__epo	Ĉinujo proksimume 25-oble pli grandas ol Japanujo.
+__label__eng	Tom didn't know that Mary wasn't going to do that.
+__label__spa	Por uno se sabe cómo son todos.
+__label__deu	Mit 60 beginnt man jung zu sein — und dann ist es zu spät.
+__label__por	Ele trabalha para uma grande corporação.
+__label__deu	Egal, dann machen wir eben was anderes.
+__label__ita	Ho il passaporto sudafricano.
+__label__eng	Land prices seem to just keep going up.
+__label__hun	Tom otthon maradt, mert influenzája van.
+__label__epo	La felo de la zebro havas blankajn kaj nigrajn striojn.
+__label__spa	¿Quién mandó a construir esta casa fea?
+__label__epo	Doloris al li la kapo.
+__label__eng	There's no secret plan.
+__label__tur	O beni durdurmayacak.
+__label__rus	Встреча началась ровно в девять часов.
+__label__eng	Those who have never thought about the value of life should not study medicine.
+__label__tur	Tom oldukça ağzı sıkı, değil mi?
+__label__epo	Ĉu ĉi-vespere tio konvenus al vi?
+__label__epo	Mi zorgas nenion.
+__label__epo	Ne apogu vin sur aliaj.
+__label__hun	Tom éppen listát készít.
+__label__deu	Hier sind wir völlig sicher.
+__label__rus	Я провожу вас к нему.
+__label__ita	"Di che nazionalità sono i vostri insegnanti?" "Polacca."
+__label__rus	Я хочу посетить все французские экс-колонии.
+__label__ita	Per D'Annunzio l'arte non deve essere monetizzata.
+__label__tur	Ne olduğunu bize tam olarak söyle.
+__label__eng	We were able to make a deal with them.
+__label__tur	Mutlu olmak istediğinizi biliyorum.
+__label__fra	Il est gonflé, ce mec.
+__label__por	Este suco ficaria ainda melhor com dois cubinhos de gelo.
+__label__spa	Si aparece gangrena habrá que amputar.
+__label__eng	This doesn't prove a thing.
+__label__hun	Mi a különbség a kettő között?
+__label__eng	The United States borders Canada.
+__label__deu	Das Mädchen scheint reich zu sein.
+__label__tur	Ben yatağa gidiyorum.
+__label__por	O maior problema que enfrentamos hoje é o desalinhamento de QPUs.
+__label__ita	Lui vi manca, vero?
+__label__spa	María y Tom siempre están dispuestos a recibir visitas extranjeras.
+__label__tur	Itoh adlı bir kişi sizinle görüşmek istiyor.
+__label__eng	Tom's well.
+__label__rus	Прикинь! Я еду учиться в Новую Зеландию.
+__label__deu	„Erinnerst du dich an den Film, wo jemand sagt, dass diese Außerirdischen keine 90 Milliarden Lichtjahre zurückgelegt haben, um Frieden mit uns zu schließen?“ - „Ja.“ - „Dann könnte man heutzutage ebenso sagen, dass diese Typen keine 9000 Kilometer zurückgelegt haben mit ihren Flugzeugträgern und ihren Panzern, um Frieden mit uns zu schließen.“
+__label__epo	Lin tenas tiu per fera mano.
+__label__rus	Посреди парка росло большое дерево.
+__label__eng	Tom gave each of his children three apples.
+__label__hun	Adj utat!
+__label__tur	Üzgün olmanı gerektiren nedir?
+__label__ita	Ci dobbiamo commuovere?
+__label__eng	How many payments will it take to pay off this loan?
+__label__epo	Tomo plu neniun fidas.
+__label__hun	Elég magas, hogy megérintse a mennyezetet.
+__label__hun	Elsősegély ellátásra szorulok.
+__label__eng	Where did Tom hear that?
+__label__eng	Will you please pass the butter?
+__label__epo	Mi pensas, ke la franca gramatiko estas malfacila.
+__label__epo	Per ŝarknaĝila supo oni ĝenerale regalas geedziĝfestajn gastojn en Ĉinio.
+__label__eng	I slept on the floor.
+__label__eng	I told Tom we could do it today.
+__label__rus	Красивая у тебя юбка.
+__label__epo	Ĉu tiu nigra sako estas via?
+__label__deu	Ihr könnt es euch immer noch anders überlegen.
+__label__spa	Ella come como un puerco.
+__label__tur	Onu bana geri ver.
+__label__deu	Tom und ich sind Freunde.
+__label__ita	Dovreste imparare a suonare uno strumento.
+__label__eng	She wanted to protect herself.
+__label__rus	Незнакомец похлопал меня по плечу сзади. Он, должно быть, принял меня за кого-то другого.
+__label__eng	How much do dental assistants make?
+__label__fra	Parlez-vous le polonais ?
+__label__deu	Das Wasser hier ist äußerst gefährlich.
+__label__eng	Uncle Bob fixed my clock. It keeps good time now.
+__label__hun	Te seggfej!
+__label__tur	Belki süpermarkete gideceğimi ve akşam yemeği için bir şey alacağımı düşündüm.
+__label__fra	Elle lui a envoyé une longue lettre.
+__label__ita	Tom ha appena guardato.
+__label__hun	Tom a rivális bandából volt.
+__label__eng	They probably did that by themselves.
+__label__rus	Вы сказали Тому, зачем вам нужно в Бостон?
+__label__por	O que aconteceu depois que o Tom desapareceu?
+__label__rus	Это не противозаконно.
+__label__tur	Nasıl kazandık?
+__label__ita	Ha giocato a Minecraft?
+__label__tur	Bu sabah nasıl hissettiğini görelim.
+__label__por	As aves chilreiam.
+__label__ita	È solo tanta invidia!
+__label__rus	Брось, хватит об этом думать.
+__label__ita	La polizia lo arrestò per furto.
+__label__eng	Tom was in the hospital for three weeks earlier this year.
+__label__epo	Mi estas satigita.
+__label__epo	Li maltrafis la trajnon je unu minuto.
+__label__epo	Mi ne defendas Tomon.
+__label__ita	Betty sta annaffiando i fiori.
+__label__deu	„Von wem sind diese Armringe?“ — „Sie sind von Majda.“
+__label__epo	Ni alkutimiĝis al malfruvespera laboro.
+__label__eng	While I was thinking over whether I should accept such strange apologies, Coutabay leafed through the book and read loudly and expressively: "While I was thinking over whether I should accept such strange apologies, Coutabay leafed through the book and read loudly and expressively: 'While I was thinking...' Holmes quickly snatched the volume from Coutabay's hands.
+__label__deu	Ich erkannte einen.
+__label__tur	O ve Aldrin 2.5 saatte Ay'ın yüzeyini araştırdı.
+__label__por	Este lugar está muito sujo.
+__label__por	Vivemos juntos uns seis anos.
+__label__rus	Я не знаю, могу ли я пойти туда или нет.
+__label__tur	Ona benzerdim.
+__label__deu	Er wurde zum Tode verurteilt.
+__label__rus	Том довольно хорошо меня знает.
+__label__ita	Nessuno l'ha vista farlo.
+__label__eng	Do you think Tom and Mary would like it if I did that for them?
+__label__ita	Non sono sicuro che ci sia un problema.
+__label__hun	Azt szeretném, hogy Ön maradjon itt nála.
+__label__ita	Sto imparando il birmano.
+__label__epo	Eĉ se lavi, ĝi ne perdos la koloron pro tio.
+__label__tur	Sen genellikle akşamları evde değil misin?
+__label__ita	Dove le piacerebbe andare dopo?
+__label__epo	Unu fojo ne estas kutimo.
+__label__fra	Il est d'accord avec moi.
+__label__eng	I know Tom doesn't know why you did that by yourself.
+__label__eng	I'm sorry I didn't let you do that.
+__label__eng	Tom and Mary cut it with their knives.
+__label__rus	Позвони в полицию и расскажи им то, что сказал мне.
+__label__spa	¿Podrías ayudar dentro?
+__label__tur	Onların hepsinin ilgiye ihtiyacı var.
+__label__deu	Man sollte annehmen, Menschenliebe, die das Fundament von allem ist, sollte in jedem Menschen sein. Aber manche behaupten, es gebe bessere Fundamente. Auf die bin ich nicht sehr neugierig.
+__label__tur	Tom'un söylediği bir yalandı.
+__label__hun	Utálok ablakot mosni.
+__label__por	Eu tenho certeza de que o Tom teve a intenção de fazer isso.
+__label__tur	Posta öğleden önce gelir.
+__label__eng	No one asked how Tom was doing.
+__label__rus	Твоему поведению нет оправдания.
+__label__ita	Noi abbiamo parlato per un po' di tempo.
+__label__hun	A szobájában játszik.
+__label__tur	Öksürük uykunu rahatsız ediyor mu?
+__label__tur	Sanırım Tom tuhaf.
+__label__ita	Erano tutti così occupati.
+__label__deu	Diese Anwendung läuft auf Toms Telefon, nicht aber auf Marias.
+__label__rus	Хозяин заговорил, и гости не будут молчать.
+__label__rus	Она пьяна от счастья.
+__label__rus	Занимайтесь своим делом.
+__label__spa	Mi abuelo habrá leído diez veces la Biblia si la lee otra vez.
+__label__spa	Hay tantos candidatos este año que no tengo ni idea de quién es el favorito.
+__label__eng	They danced to the sound of the music.
+__label__hun	Fárasztó napom volt.
+__label__deu	Sie lernt Englisch und Chinesisch.
+__label__ita	È costato trenta milioni di dollari.
+__label__spa	Jane es oriunda de Australia.
+__label__eng	I wanted to do something for Tom.
+__label__rus	Ты же знаешь, что здесь купаться нельзя. Зачем ты полез в воду?
+__label__hun	Nem vagyok biztos, hogy ez segíteni fog.
+__label__tur	Tom beni çok seviyor.
+__label__eng	You always do that in the evening, don't you?
+__label__deu	Hast du deine Hände gewaschen?
+__label__deu	Eero geht immer ohne Kopfbedeckung.
+__label__tur	Akşam yemeğine kalıyor musun?
+__label__rus	В этом доме я вырос.
+__label__deu	Man kann das Leben nur rückwärts verstehen, aber man muss es vorwärts leben.
+__label__tur	New York'un her karışını bilirim.
+__label__ita	L'ho pagata dieci dollari.
+__label__rus	Как мне вас найти?
+__label__tur	Onun hikayesinin gerçekliğinden şüphe ediyorum.
+__label__rus	Он проводил меня до дверей.
+__label__deu	Ich möchte, dass Sie mir etwas versprechen.
+__label__eng	You really should get this agreement down in writing.
+__label__ita	Erano tre lettere.
+__label__fra	Soyez vigilant.
+__label__eng	This is the best method to solve that problem.
+__label__deu	Das ist aber eine interessante Novelle!
+__label__epo	Post sia unua rendevuo kun Tom Mary estis maltrankvila la tutan tagon, ne povis koncentri sin al siaj instruhoroj kaj ne sentis malsaton.
+__label__tur	Bizden ne gizlediğine bakalım.
+__label__fra	Où as-tu fait réparer ton appareil-photo ?
+__label__rus	Ничуть не сомневаюсь. Приятного аппетита!
+__label__eng	Do you think Tom would be willing to do that for us?
+__label__ita	Sarà famoso un giorno.
+__label__eng	You don't think I can do this, do you?
+__label__tur	Ben dağınığım.
+__label__deu	Ich will eins!
+__label__por	Tom morreu na explosão.
+__label__rus	Я знаю, как это для тебя сложно.
+__label__eng	My goal is to learn French.
+__label__eng	Tom knew that Mary had told John that she saw Alice kissing another man.
+__label__por	Acho que é uma boa ideia.
+__label__epo	Mi esperas, ke vi estos feliĉaj kune.
+__label__por	Você poderia me emprestar seu celular por um instante?
+__label__deu	Er erlitt bei dem Unfall innere Verletzungen.
+__label__hun	Szeretném ezt helyretenni.
+__label__ita	Tom sembrava perfettamente felice.
+__label__por	Tom queria dizer alguma coisa.
+__label__fra	Tous nos actes visent à écarter de nous la souffrance et la peur.
+__label__epo	Tio estas relative severa.
+__label__rus	Мы примерно в трёх километрах от побережья.
+__label__spa	Dios no permita que eso pase.
+__label__deu	Ich habe dergleichen nicht versprochen.
+__label__ita	Non vai a fare affari in Niger.
+__label__eng	They expect an American to be a white person.
+__label__tur	Tom'un güzel planları var.
+__label__eng	The Soviet Union was dissolved on December 26, 1991.
+__label__ita	A me piace il volo con il parapendio.
+__label__eng	I thought that Tom was finished doing that.
+__label__deu	Tom spielt keine Videospiele.
+__label__ita	Jamal andò nella sua stanza.
+__label__eng	I think Tom and Mary are like that.
+__label__epo	Se Tomo ne mortigis sin mem, iu alia mortigis lin.
+__label__ita	È troppo lontana per andare a piedi.
+__label__spa	El universo es un átomo gigante y todo es afectado por él.
+__label__rus	Он несколько лет прожил в Украине.
+__label__epo	Kial vi estas kun egoisto?
+__label__rus	Её работа имела отношение к телефонам.
+__label__por	Este é um instrumento sofisticado.
+__label__ita	Non va a costruire moschee in Lituania.
+__label__rus	Не покупай его, пожалуйста.
+__label__eng	He had huge mood swings.
+__label__fra	Elle n'est jamais sortie avec lui.
+__label__hun	Az ügyfelem hajlandó alkut kötni.
+__label__rus	Перед экзаменом у меня был жуткий страх, но я взяла себя в руки и справилась со всеми заданиями.
+__label__epo	Tom tuj reagis.
+__label__eng	Tom budgeted three hundred dollars for the party.
+__label__rus	Я хочу тебе помочь, но не могу.
+__label__hun	Nem volt joga csöndben maradni.
+__label__ita	La mia ragazza amata è molto lontana da me.
+__label__eng	Why isn't Tom at school?
+__label__rus	Я смотрел на Тома.
+__label__rus	Эта мечта осуществилась.
+__label__eng	Seeing is believing.
+__label__ita	Le persone piccole guardano le persone grandi.
+__label__rus	Думаю, он спит.
+__label__tur	Buradaki en genç adam ben değilim.
