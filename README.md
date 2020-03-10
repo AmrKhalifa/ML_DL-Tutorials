@@ -1,1 +1,1 @@
-# AMMI-Machine-Learning---Deep-Learning-Tutorials
+# AMMI Natural Language Processing Lab sessions. 
